@@ -1,0 +1,12 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nieyulin112/webapp.git",
+  "author": "nieyulin756",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "webpack": "^2.4.1"
+  }
+}
