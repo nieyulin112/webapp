@@ -4,6 +4,5 @@ var app = new koa();
 app.use(function *(){
   this.body = 'Hello World';
 });
-
 app.listen(3001);
 console.log('服务启动了');
